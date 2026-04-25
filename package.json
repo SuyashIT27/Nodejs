@@ -1,0 +1,16 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "This is to make the npm",
+  "license": "ISC",
+  "author": "complet coding",
+  "type": "commonjs",
+  "main": "first.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon Lecture7.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
